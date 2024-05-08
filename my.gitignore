@@ -1,0 +1,11 @@
+/01_函数示例/.pytest_cache/
+/01_函数示例/.pytest_cache/v/
+/01_函数示例/.pytest_cache/.gitignore
+/01_函数示例/.pytest_cache/CACHEDIR.TAG
+/01_函数示例/.pytest_cache/README.md
+/venv/
+/venv/Lib/
+/venv/Scripts/
+/venv/.gitignore
+/venv/myblog.gif
+/venv/pyvenv.cfg

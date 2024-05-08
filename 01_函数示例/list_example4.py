@@ -1,0 +1,10 @@
+#计算长度
+list_demo4=list('xxjjggiaggggghaorend')
+print(list_demo4)
+list_demo4.count('g')
+print(list_demo4.count('g'))
+print(len(list_demo4))
+list_demo4.insert(5,"xiaomi123")
+print(list_demo4)
+print(len(list_demo4[5]))
+print(list_demo4.count('x'))
